@@ -1,6 +1,7 @@
 .column {
   float: left;
   width: 30%;
+  background-color: #FFAB23;
 }
 
 .img-size {
