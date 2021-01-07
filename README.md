@@ -11,7 +11,7 @@
 
 ## Description
 
-_This is a simple mock site that was created for an investor looking to promote their resort that is currently under construction. The site describes the many accomodations the resort offers. It also describes travel arrangements and activities! Check out the photos to see how beautiful this area is, there is also a page to contact the resort customer service line if you are interested in more information._
+_This is a super basic mock site that was built to practice creating columns with the float style._
 
 ## Setup/Installation Requirements
 
@@ -21,7 +21,7 @@ _This is a simple mock site that was created for an investor looking to promote 
 
 ## Known Bugs
 
-* __
+* _No known bugs_
 
 ## License
 
