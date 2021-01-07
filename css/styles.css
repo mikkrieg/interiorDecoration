@@ -1,0 +1,13 @@
+.column {
+  float: left;
+  width: 30%;
+}
+
+.img-size {
+  width: 50%;
+}
+
+p {
+  text-align: center;
+  width: 50%;
+}
